@@ -1,5 +1,5 @@
 {
-  "name": "todolist-graphql-server",
+  "name": "graphql-todolist-server",
   "version": "1.0.0",
   "description": "Create Graphqls server for to do list web app",
   "main": "src/index.js",
