@@ -4,7 +4,7 @@ class ToDoApi extends RESTDataSource{
 
     constructor(){
         super();
-        this.baseURL = 'https://jsonplaceholder.typicode.com/';
+        this.baseURL = 'https://staging-enterprise.irvinsaltedegg.com/api';
     };
 
     async getList(){
